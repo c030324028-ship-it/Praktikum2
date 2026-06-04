@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktikum2</string>
+    <string-array name="warna">
+        <item>Reset</item>
+        <item>Merah</item>
+        <item>Hijau</item>
+        <item>Biru</item>
+    </string-array>
+</resources>
